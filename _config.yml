@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "Spain/Madrid"
-title                    : "Yong's Homepage"
+title                    : "Ruiqi's Homepage"
 title_separator          : "-"
-name                     : &name "Yong Xie"
+name                     : &name "Ruiqi Hu"
 description              : &description "personal description"
-url                      : https://yongxie-icmm.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ruiqi_hu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "Photo.jpg"
-  name             : "Yong Xie"
+  name             : "Ruiqi Hu"
   pronouns         : # example: "she/her"  
-  bio              : "Visiting professor @ ICMM"
-  location         : "Madrid, Spain"
-  employer         : "ICMM/Xidian University"
+  bio              : ""
+  location         : "USA"
+  employer         : "University of Delaware"
   uri              : # URL
-  email            : "yxie@xidian.edu.cn" 
+  email            : "ruiqihu@udel.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
